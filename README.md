@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @SickoDany
+- 👀 I’m interested in IT, Football , Gaming and Music
+- 🌱 My main languages are C, Java, matlab
