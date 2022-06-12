@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @SickoDany
 - 👀 I’m interested in IT, Football, Gaming and Music
 - 🌱 My main languages are C, Java, Matlab
+- Graduated in SW Engineering, looking forward to expand my knowledge in terms of programming & modding
